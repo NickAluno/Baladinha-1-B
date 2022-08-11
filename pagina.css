@@ -1,0 +1,56 @@
+body{
+	background: SandyBrown;
+}
+
+h1{
+text-align: center;
+font-size: 80px;
+color: Sienna;
+}
+.BOLO{
+background: NavajoWhite;	
+}
+
+h2{
+text-align: center;
+font-size: 60px;
+color: SaddleBrown;	
+
+}
+
+#banner{
+	width: 30%;
+}
+
+li{
+text-align: center;
+font-size: 18px;	
+}
+
+p{
+text-align: center;
+font-size: 24px;
+}
+
+.Ing{
+background: NavajoWhite;
+}
+
+.MODO{
+background: NavajoWhite;	
+}
+
+
+h3{
+text-align: center;	
+font-size: 60px;
+color: SaddleBrown;
+}
+
+.INGREDIENTES{
+background: NavajoWhite;
+}
+
+.WAFFLE{
+background: NavajoWhite;
+}
